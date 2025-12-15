@@ -1,7 +1,6 @@
 # Decentralized Event Ticketing System
 
 **Author:** AbdulBasith Mulla
-
 **Tech Stack:** Solidity (v0.8+), Ethereum, Remix IDE
 
 ## Project Overview
